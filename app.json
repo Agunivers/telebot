@@ -1,5 +1,6 @@
 {
-    "name": "YoneRobot",
+    "name": "Telebot",
+    "img" : "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg", 
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
@@ -8,7 +9,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/Agunivers/telebot",
  "addons": [
     {
        "options": {
